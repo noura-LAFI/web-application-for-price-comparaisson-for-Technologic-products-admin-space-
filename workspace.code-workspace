@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "phantom\\light\\css"
+		},
+		{
+			"path": "phantom\\light\\fonts"
+		},
+		{
+			"path": "phantom\\light\\img"
+		},
+		{
+			"path": "phantom\\light\\js"
+		},
+		{
+			"path": "phantom\\light\\scss"
+		}
+	]
+}
